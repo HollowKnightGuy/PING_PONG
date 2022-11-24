@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(46, 45, 45);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Be Vietnam Pro";
+}
+
+text{
+    color: white;
+}
+
+.svg{
+    width: 800px;
+    height: 400px;
+    border-radius: 20px;
+    border: 3px solid rgb(114, 114, 114);
+    background-color: rgb(84, 81, 81);
+    box-shadow: 0 0 100px rgb(228, 128, 128) ;
+}
